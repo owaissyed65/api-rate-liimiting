@@ -1,0 +1,6 @@
+compatability_date = "2024-04-08"
+name = "practice-api-2"
+
+[vars]
+REST_URL = "https://usw1-comic-gecko-34011.upstash.io"
+REST_TOKEN = "AYTbASQgODMwMGUwNWMtZTgxOS00M2Y0LTllMzEtMjM1ZGYzYmU0OGI5MTI3MGRmMGNiNGFiNDNhYTg2MmQxODY4ZTJhNWFkYjc="
